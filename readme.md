@@ -7,6 +7,8 @@
 - Laravel 5.2.*
 - Setup Frontend
 - Setup Backend
+- Setup database
+
 
 ## How to clone
 
