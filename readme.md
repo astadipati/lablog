@@ -8,6 +8,10 @@
 - Setup Frontend
 - Setup Backend
 - Setup database
+- Faker
+
+## Lecture Checked
+- L06
 
 
 ## How to clone
